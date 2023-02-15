@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NorreroRoshe.github.io/E-commerceChandeliers",
+  "homepage": "https://NorreroRoshe.github.io/commerceChandeliers",
   "dependencies": {
     "@adobe/react-spectrum": "^3.24.1",
     "@chakra-ui/slider": "^2.0.16",
